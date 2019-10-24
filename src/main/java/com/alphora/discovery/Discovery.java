@@ -1,4 +1,4 @@
-package com.alphora.providers;
+package com.alphora.discovery;
 
 import java.util.ArrayList;
 import java.util.List;

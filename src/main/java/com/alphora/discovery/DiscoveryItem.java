@@ -1,4 +1,4 @@
-package com.alphora.providers;
+package com.alphora.discovery;
 
 import ca.uhn.fhir.rest.gclient.ICriterion;
 

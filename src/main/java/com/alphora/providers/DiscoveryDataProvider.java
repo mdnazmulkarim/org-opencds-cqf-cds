@@ -2,6 +2,8 @@ package com.alphora.providers;
 
 import ca.uhn.fhir.rest.gclient.DateClientParam;
 import ca.uhn.fhir.rest.gclient.TokenClientParam;
+import com.alphora.discovery.Discovery;
+import com.alphora.discovery.DiscoveryItem;
 import org.opencds.cqf.cql.data.fhir.BaseFhirDataProvider;
 import org.opencds.cqf.cql.runtime.Code;
 import org.opencds.cqf.cql.runtime.Interval;
